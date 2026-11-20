@@ -1,0 +1,5 @@
+Loops
+Syntax
+For Loops
+
+for variable in iterable
