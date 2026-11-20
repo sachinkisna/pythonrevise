@@ -1,0 +1,70 @@
+Python- Introduction
+Varibales-names that refres to object in an memery
+constants-
+Data types
+types conversion
+operation
+
+Variables
+A variable is a name that refers to an object in memory.
+
+
+
+Concept 3: Python Data Types
+These are the fundamental built-in data types you should understand.
+Data type	Example	Description
+int	25	Whole numbers
+float	25.5	Decimal numbers
+str	"Python"	Text
+bool	True	True or False
+list	[1, 2, 3]	Ordered, mutable collection
+tuple	(1, 2, 3)	Ordered, immutable collection
+set	{1, 2, 3}	Unique elements
+dict	{"name": "Sachin"}	Key-value collection
+NoneType	None	Absence of a value
+
+
+Operators
+Operators perform operations on values and variables.
+1. Arithmetic operators
+Operator	Meaning	Example
++	Addition	10 + 5
+-	Subtraction	10 - 5
+*	Multiplication	10 * 5
+/	Division	10 / 5
+//	Floor division	10 // 3
+%	Modulus	10 % 3
+**	Exponentiation	2 ** 3
+
+
+Logical operators
+- and – Both conditions must be true.
+- or – At least one condition must be true.
+- not – Reverses a Boolean result.
+
+
+Assignment operators
+count = 10
+
+count += 5
+count -= 2
+count *= 2
+
+print(count)
+
+Membership operators
+
+skills = ["Python", "JavaScript", "React"]
+
+print("Python" in skills)
+print("PHP" not in skills)
+
+Identity operators
+is and is not check whether two references point to the same object.
+a = [1, 2, 3]b = aprint(a is b)  # True
+
+
+
+Industry tip: Don't confuse == and is.
+- == checks value equality.
+- is checks object identity.

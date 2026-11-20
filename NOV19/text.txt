@@ -1,0 +1,19 @@
+
+E-commerce Discount Calculator
+Production Challenge
+Build a shopping discount calculator using these business rules:
+Purchase amount	Discount
+Below ₹1,000	0%
+₹1,000–₹4,999	5%
+₹5,000–₹9,999	10%
+₹10,000 or above	20%
+
+Requirements:
+1. Take customer name and purchase amount.
+2. Reject negative purchase amounts.
+3. Determine discount percentage using conditions.
+4. Calculate discount amount.
+5. Calculate final payable amount.
+6. Display a formatted invoice using f-strings.
+7. Handle invalid numeric input using try-except.
+Bonus: Use a ternary expression to determine whether the customer receives a discount.
