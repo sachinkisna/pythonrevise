@@ -1,0 +1,5 @@
+Data structure	Ordered?	Mutable?	Duplicates?
+List	Yes	Yes	Yes
+Tuple	Yes	No	Yes
+Set	No guaranteed order	Yes	No
+Dictionary	Yes (insertion order)	Yes	Keys are unique
