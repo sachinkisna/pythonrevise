@@ -1,0 +1,62 @@
+Write a Python program using a for loop to:
+1. Print numbers from 1 to 20.
+2. Print only even numbers from 1 to 20.
+3. Calculate the sum of numbers from 1 to 100.
+
+
+Take a number from the user and print its multiplication table from 1 to 10.
+
+Example for input 5:
+5 x 1 = 5
+5 x 2 = 10
+...
+5 x 10 = 50
+
+
+-------------
+
+Create a login system using a while loop.
+
+Requirements:
+- Correct password: python123
+- Maximum attempts: 3
+- Ask the user to enter a password.
+- If correct, print Login successful and stop.
+- If incorrect, show remaining attempts.
+- If all attempts fail, print Account temporarily locked.
+Use break where appropriate.
+==============
+
+
+Employee Salary Analysis
+Medium
+Given this employee data:
+employees = [    {"name": "Rahul", "salary": 30000},    {"name": "Amit", "salary": 45000},    {"name": "Priya", "salary": 55000},    {"name": "Neha", "salary": 25000},    {"name": "Ravi", "salary": 60000}]
+
+
+
+Write a program using loops to:
+1. Print all employee names and salaries.
+2. Calculate total salary expenditure.
+3. Calculate average salary.
+4. Find employees earning more than ₹40,000.
+5. Count the total number of employees.
+
+
+----------
+
+Consider this transaction data:
+transactions = [    {"id": 101, "amount": 5000, "status": "success"},    {"id": 102, "amount": 2000, "status": "failed"},    {"id": 103, "amount": 8000, "status": "success"},    {"id": 104, "amount": 1500, "status": "pending"},    {"id": 105, "amount": 3000, "status": "success"},    {"id": 106, "amount": 1000, "status": "failed"}]
+
+
+
+Build a transaction processing program.
+
+Requirements:
+1. Iterate through all transactions.
+2. Process only successful transactions.
+3. Skip failed transactions using continue.
+4. Count successful, failed and pending transactions.
+5. Calculate total successful transaction amount.
+6. Display a transaction report.
+Bonus: Use enumerate() to display transaction serial numbers.
