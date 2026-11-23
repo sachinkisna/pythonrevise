@@ -1,1 +1,0 @@
--☑️ List execrsie 4 and 5 do
