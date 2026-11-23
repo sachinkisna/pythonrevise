@@ -1,0 +1,27 @@
+Create a list of 10 employee names.
+
+Requirements:
+- Print the first employee.
+- Print the last employee.
+- Print the total number of employees.
+- Update the third employee's name.
+- Print the updated list.
+
+q2
+
+products = ["Laptop", "Mobile", "Keyboard"]
+
+Requirements:
+- Add "Mouse" using append().
+- Add "Monitor" and "Headphones" using extend().
+- Insert "Tablet" at index 1.
+- Remove "Keyboard".
+- Print the final product list.
+
+q3.
+Requirements:
+- Calculate total price.
+- Calculate average price.
+- Find the highest price.
+- Find the lowest price.
+- Count products costing more than ₹1,000.
